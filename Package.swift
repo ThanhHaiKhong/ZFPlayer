@@ -15,7 +15,14 @@ let package = Package(
         // Targets are the basic building blocks of a package, defining a module or a test suite.
         // Targets can depend on other targets in this package and products from dependencies.
         .target(
-            name: "ZFPlayer"),
+            name: "ZFPlayer",
+            dependencies: ["MixedLanguageModule"]),
+        .target(
+            name: "MixedLanguageModule",
+            dependencies: [],
+            path: "Sources/MixedLanguageModule",
+            publicHeadersPath: "."
+        ),
         .testTarget(
             name: "ZFPlayerTests",
             dependencies: ["ZFPlayer"]),
