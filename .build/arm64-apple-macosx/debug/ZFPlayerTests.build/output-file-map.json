@@ -1,0 +1,11 @@
+{
+  "": {
+    "swift-dependencies": "/Users/thanhhaikhong/SwiftPackageManager/ZFPlayer/.build/arm64-apple-macosx/debug/ZFPlayerTests.build/master.swiftdeps"
+  },
+  "/Users/thanhhaikhong/SwiftPackageManager/ZFPlayer/Tests/ZFPlayerTests/ZFPlayerTests.swift": {
+    "dependencies": "/Users/thanhhaikhong/SwiftPackageManager/ZFPlayer/.build/arm64-apple-macosx/debug/ZFPlayerTests.build/ZFPlayerTests.d",
+    "object": "/Users/thanhhaikhong/SwiftPackageManager/ZFPlayer/.build/arm64-apple-macosx/debug/ZFPlayerTests.build/ZFPlayerTests.swift.o",
+    "swiftmodule": "/Users/thanhhaikhong/SwiftPackageManager/ZFPlayer/.build/arm64-apple-macosx/debug/ZFPlayerTests.build/ZFPlayerTests~partial.swiftmodule",
+    "swift-dependencies": "/Users/thanhhaikhong/SwiftPackageManager/ZFPlayer/.build/arm64-apple-macosx/debug/ZFPlayerTests.build/ZFPlayerTests.swiftdeps"
+  }
+}

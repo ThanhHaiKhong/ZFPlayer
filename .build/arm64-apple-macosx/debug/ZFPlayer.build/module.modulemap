@@ -1,0 +1,4 @@
+module ZFPlayer {
+    header "/Users/thanhhaikhong/SwiftPackageManager/ZFPlayer/.build/arm64-apple-macosx/debug/ZFPlayer.build/ZFPlayer-Swift.h"
+    requires objc
+}

@@ -1,4 +1,4 @@
-module MixedLanguageModule [system] {
-    header "MixedLanguageModule.h"
+module MixedLanguageModule {
+    umbrella header "MixedLanguageModule.h"
     export *
 }

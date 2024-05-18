@@ -4,3 +4,4 @@
 #import "ZFAVPlayerManager.h"
 #import "ZFIJKPlayerManager.h"
 #import "ZFPlayerControlView.h"
+#import "ZFPlayerMediaPlayback.h"

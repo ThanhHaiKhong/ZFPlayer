@@ -1,0 +1,698 @@
+{
+  "builtTestProducts" : [
+    {
+      "binaryPath" : "/Users/thanhhaikhong/SwiftPackageManager/ZFPlayer/.build/arm64-apple-macosx/debug/ZFPlayerPackageTests.xctest/Contents/MacOS/ZFPlayerPackageTests",
+      "packagePath" : "/Users/thanhhaikhong/SwiftPackageManager/ZFPlayer",
+      "productName" : "ZFPlayerPackageTests"
+    }
+  ],
+  "copyCommands" : {
+
+  },
+  "explicitTargetDependencyImportCheckingMode" : {
+    "none" : {
+
+    }
+  },
+  "generatedSourceTargetSet" : [
+
+  ],
+  "pluginDescriptions" : [
+
+  ],
+  "swiftCommands" : {
+    "C.ZFPlayer-debug.module" : {
+      "executable" : "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/swiftc",
+      "fileList" : "/Users/thanhhaikhong/SwiftPackageManager/ZFPlayer/.build/arm64-apple-macosx/debug/ZFPlayer.build/sources",
+      "importPath" : "/Users/thanhhaikhong/SwiftPackageManager/ZFPlayer/.build/arm64-apple-macosx/debug",
+      "inputs" : [
+        {
+          "kind" : "file",
+          "name" : "/Users/thanhhaikhong/SwiftPackageManager/ZFPlayer/Sources/ZFPlayer/ZFPlayer.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/thanhhaikhong/SwiftPackageManager/ZFPlayer/.build/arm64-apple-macosx/debug/swift-version--58304C5D6DBC2206.txt"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/thanhhaikhong/SwiftPackageManager/ZFPlayer/.build/arm64-apple-macosx/debug/MixedLanguageModule.build/UIImageView+ZFCache.m.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/thanhhaikhong/SwiftPackageManager/ZFPlayer/.build/arm64-apple-macosx/debug/MixedLanguageModule.build/UIScrollView+ZFPlayer.m.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/thanhhaikhong/SwiftPackageManager/ZFPlayer/.build/arm64-apple-macosx/debug/MixedLanguageModule.build/UIView+ZFFrame.m.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/thanhhaikhong/SwiftPackageManager/ZFPlayer/.build/arm64-apple-macosx/debug/MixedLanguageModule.build/UIViewController+ZFPlayerRotation.m.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/thanhhaikhong/SwiftPackageManager/ZFPlayer/.build/arm64-apple-macosx/debug/MixedLanguageModule.build/ZFAVPlayerManager.m.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/thanhhaikhong/SwiftPackageManager/ZFPlayer/.build/arm64-apple-macosx/debug/MixedLanguageModule.build/ZFFloatView.m.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/thanhhaikhong/SwiftPackageManager/ZFPlayer/.build/arm64-apple-macosx/debug/MixedLanguageModule.build/ZFIJKPlayerManager.m.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/thanhhaikhong/SwiftPackageManager/ZFPlayer/.build/arm64-apple-macosx/debug/MixedLanguageModule.build/ZFKVOController.m.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/thanhhaikhong/SwiftPackageManager/ZFPlayer/.build/arm64-apple-macosx/debug/MixedLanguageModule.build/ZFLandScapeControlView.m.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/thanhhaikhong/SwiftPackageManager/ZFPlayer/.build/arm64-apple-macosx/debug/MixedLanguageModule.build/ZFLandscapeRotationManager.m.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/thanhhaikhong/SwiftPackageManager/ZFPlayer/.build/arm64-apple-macosx/debug/MixedLanguageModule.build/ZFLandscapeRotationManager_iOS15.m.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/thanhhaikhong/SwiftPackageManager/ZFPlayer/.build/arm64-apple-macosx/debug/MixedLanguageModule.build/ZFLandscapeRotationManager_iOS16.m.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/thanhhaikhong/SwiftPackageManager/ZFPlayer/.build/arm64-apple-macosx/debug/MixedLanguageModule.build/ZFLandscapeViewController.m.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/thanhhaikhong/SwiftPackageManager/ZFPlayer/.build/arm64-apple-macosx/debug/MixedLanguageModule.build/ZFLandscapeViewController_iOS15.m.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/thanhhaikhong/SwiftPackageManager/ZFPlayer/.build/arm64-apple-macosx/debug/MixedLanguageModule.build/ZFLandscapeWindow.m.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/thanhhaikhong/SwiftPackageManager/ZFPlayer/.build/arm64-apple-macosx/debug/MixedLanguageModule.build/ZFLoadingView.m.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/thanhhaikhong/SwiftPackageManager/ZFPlayer/.build/arm64-apple-macosx/debug/MixedLanguageModule.build/ZFNetworkSpeedMonitor.m.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/thanhhaikhong/SwiftPackageManager/ZFPlayer/.build/arm64-apple-macosx/debug/MixedLanguageModule.build/ZFOrientationObserver.m.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/thanhhaikhong/SwiftPackageManager/ZFPlayer/.build/arm64-apple-macosx/debug/MixedLanguageModule.build/ZFPersentInteractiveTransition.m.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/thanhhaikhong/SwiftPackageManager/ZFPlayer/.build/arm64-apple-macosx/debug/MixedLanguageModule.build/ZFPlayerControlView.m.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/thanhhaikhong/SwiftPackageManager/ZFPlayer/.build/arm64-apple-macosx/debug/MixedLanguageModule.build/ZFPlayerController.m.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/thanhhaikhong/SwiftPackageManager/ZFPlayer/.build/arm64-apple-macosx/debug/MixedLanguageModule.build/ZFPlayerGestureControl.m.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/thanhhaikhong/SwiftPackageManager/ZFPlayer/.build/arm64-apple-macosx/debug/MixedLanguageModule.build/ZFPlayerLogManager.m.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/thanhhaikhong/SwiftPackageManager/ZFPlayer/.build/arm64-apple-macosx/debug/MixedLanguageModule.build/ZFPlayerNotification.m.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/thanhhaikhong/SwiftPackageManager/ZFPlayer/.build/arm64-apple-macosx/debug/MixedLanguageModule.build/ZFPlayerStatusBar.m.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/thanhhaikhong/SwiftPackageManager/ZFPlayer/.build/arm64-apple-macosx/debug/MixedLanguageModule.build/ZFPlayerView.m.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/thanhhaikhong/SwiftPackageManager/ZFPlayer/.build/arm64-apple-macosx/debug/MixedLanguageModule.build/ZFPortraitControlView.m.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/thanhhaikhong/SwiftPackageManager/ZFPlayer/.build/arm64-apple-macosx/debug/MixedLanguageModule.build/ZFPortraitViewController.m.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/thanhhaikhong/SwiftPackageManager/ZFPlayer/.build/arm64-apple-macosx/debug/MixedLanguageModule.build/ZFPresentTransition.m.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/thanhhaikhong/SwiftPackageManager/ZFPlayer/.build/arm64-apple-macosx/debug/MixedLanguageModule.build/ZFReachabilityManager.m.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/thanhhaikhong/SwiftPackageManager/ZFPlayer/.build/arm64-apple-macosx/debug/MixedLanguageModule.build/ZFSliderView.m.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/thanhhaikhong/SwiftPackageManager/ZFPlayer/.build/arm64-apple-macosx/debug/MixedLanguageModule.build/ZFSmallFloatControlView.m.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/thanhhaikhong/SwiftPackageManager/ZFPlayer/.build/arm64-apple-macosx/debug/MixedLanguageModule.build/ZFSpeedLoadingView.m.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/thanhhaikhong/SwiftPackageManager/ZFPlayer/.build/arm64-apple-macosx/debug/MixedLanguageModule.build/ZFUtilities.m.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/thanhhaikhong/SwiftPackageManager/ZFPlayer/.build/arm64-apple-macosx/debug/MixedLanguageModule.build/ZFVolumeBrightnessView.m.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/thanhhaikhong/SwiftPackageManager/ZFPlayer/.build/arm64-apple-macosx/debug/ZFPlayer.build/sources"
+        }
+      ],
+      "isLibrary" : true,
+      "moduleName" : "ZFPlayer",
+      "moduleOutputPath" : "/Users/thanhhaikhong/SwiftPackageManager/ZFPlayer/.build/arm64-apple-macosx/debug/ZFPlayer.swiftmodule",
+      "objects" : [
+        "/Users/thanhhaikhong/SwiftPackageManager/ZFPlayer/.build/arm64-apple-macosx/debug/ZFPlayer.build/ZFPlayer.swift.o"
+      ],
+      "otherArguments" : [
+        "-target",
+        "arm64-apple-macosx10.13",
+        "-swift-version",
+        "5",
+        "-enable-batch-mode",
+        "-index-store-path",
+        "/Users/thanhhaikhong/SwiftPackageManager/ZFPlayer/.build/arm64-apple-macosx/debug/index/store",
+        "-Onone",
+        "-enable-testing",
+        "-j10",
+        "-DSWIFT_PACKAGE",
+        "-DDEBUG",
+        "-Xcc",
+        "-fmodule-map-file=/Users/thanhhaikhong/SwiftPackageManager/ZFPlayer/Sources/MixedLanguageModule/module.modulemap",
+        "-Xcc",
+        "-I",
+        "-Xcc",
+        "/Users/thanhhaikhong/SwiftPackageManager/ZFPlayer/Sources/MixedLanguageModule",
+        "-module-cache-path",
+        "/Users/thanhhaikhong/SwiftPackageManager/ZFPlayer/.build/arm64-apple-macosx/debug/ModuleCache",
+        "-parseable-output",
+        "-parse-as-library",
+        "-emit-objc-header",
+        "-emit-objc-header-path",
+        "/Users/thanhhaikhong/SwiftPackageManager/ZFPlayer/.build/arm64-apple-macosx/debug/ZFPlayer.build/ZFPlayer-Swift.h",
+        "-color-diagnostics",
+        "-sdk",
+        "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX14.4.sdk",
+        "-F",
+        "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/Library/Frameworks",
+        "-I",
+        "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/usr/lib",
+        "-L",
+        "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/usr/lib",
+        "-g",
+        "-Xcc",
+        "-isysroot",
+        "-Xcc",
+        "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX14.4.sdk",
+        "-Xcc",
+        "-F",
+        "-Xcc",
+        "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/Library/Frameworks",
+        "-Xcc",
+        "-fPIC",
+        "-Xcc",
+        "-g",
+        "-package-name",
+        "zfplayer"
+      ],
+      "outputFileMapPath" : "/Users/thanhhaikhong/SwiftPackageManager/ZFPlayer/.build/arm64-apple-macosx/debug/ZFPlayer.build/output-file-map.json",
+      "outputs" : [
+        {
+          "kind" : "file",
+          "name" : "/Users/thanhhaikhong/SwiftPackageManager/ZFPlayer/.build/arm64-apple-macosx/debug/ZFPlayer.build/ZFPlayer.swift.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/thanhhaikhong/SwiftPackageManager/ZFPlayer/.build/arm64-apple-macosx/debug/ZFPlayer.swiftmodule"
+        }
+      ],
+      "sources" : [
+        "/Users/thanhhaikhong/SwiftPackageManager/ZFPlayer/Sources/ZFPlayer/ZFPlayer.swift"
+      ],
+      "tempsPath" : "/Users/thanhhaikhong/SwiftPackageManager/ZFPlayer/.build/arm64-apple-macosx/debug/ZFPlayer.build",
+      "wholeModuleOptimization" : false
+    },
+    "C.ZFPlayerTests-debug.module" : {
+      "executable" : "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/swiftc",
+      "fileList" : "/Users/thanhhaikhong/SwiftPackageManager/ZFPlayer/.build/arm64-apple-macosx/debug/ZFPlayerTests.build/sources",
+      "importPath" : "/Users/thanhhaikhong/SwiftPackageManager/ZFPlayer/.build/arm64-apple-macosx/debug",
+      "inputs" : [
+        {
+          "kind" : "file",
+          "name" : "/Users/thanhhaikhong/SwiftPackageManager/ZFPlayer/Tests/ZFPlayerTests/ZFPlayerTests.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/thanhhaikhong/SwiftPackageManager/ZFPlayer/.build/arm64-apple-macosx/debug/swift-version--58304C5D6DBC2206.txt"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/thanhhaikhong/SwiftPackageManager/ZFPlayer/.build/arm64-apple-macosx/debug/ZFPlayer.swiftmodule"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/thanhhaikhong/SwiftPackageManager/ZFPlayer/.build/arm64-apple-macosx/debug/ZFPlayerTests.build/sources"
+        }
+      ],
+      "isLibrary" : true,
+      "moduleName" : "ZFPlayerTests",
+      "moduleOutputPath" : "/Users/thanhhaikhong/SwiftPackageManager/ZFPlayer/.build/arm64-apple-macosx/debug/ZFPlayerTests.swiftmodule",
+      "objects" : [
+        "/Users/thanhhaikhong/SwiftPackageManager/ZFPlayer/.build/arm64-apple-macosx/debug/ZFPlayerTests.build/ZFPlayerTests.swift.o"
+      ],
+      "otherArguments" : [
+        "-target",
+        "arm64-apple-macosx13.0",
+        "-swift-version",
+        "5",
+        "-enable-batch-mode",
+        "-index-store-path",
+        "/Users/thanhhaikhong/SwiftPackageManager/ZFPlayer/.build/arm64-apple-macosx/debug/index/store",
+        "-Onone",
+        "-enable-testing",
+        "-j10",
+        "-DSWIFT_PACKAGE",
+        "-DDEBUG",
+        "-Xcc",
+        "-fmodule-map-file=/Users/thanhhaikhong/SwiftPackageManager/ZFPlayer/Sources/MixedLanguageModule/module.modulemap",
+        "-Xcc",
+        "-I",
+        "-Xcc",
+        "/Users/thanhhaikhong/SwiftPackageManager/ZFPlayer/Sources/MixedLanguageModule",
+        "-module-cache-path",
+        "/Users/thanhhaikhong/SwiftPackageManager/ZFPlayer/.build/arm64-apple-macosx/debug/ModuleCache",
+        "-parseable-output",
+        "-parse-as-library",
+        "-color-diagnostics",
+        "-sdk",
+        "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX14.4.sdk",
+        "-F",
+        "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/Library/Frameworks",
+        "-I",
+        "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/usr/lib",
+        "-L",
+        "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/usr/lib",
+        "-g",
+        "-Xcc",
+        "-isysroot",
+        "-Xcc",
+        "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX14.4.sdk",
+        "-Xcc",
+        "-F",
+        "-Xcc",
+        "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/Library/Frameworks",
+        "-Xcc",
+        "-fPIC",
+        "-Xcc",
+        "-g",
+        "-package-name",
+        "zfplayer"
+      ],
+      "outputFileMapPath" : "/Users/thanhhaikhong/SwiftPackageManager/ZFPlayer/.build/arm64-apple-macosx/debug/ZFPlayerTests.build/output-file-map.json",
+      "outputs" : [
+        {
+          "kind" : "file",
+          "name" : "/Users/thanhhaikhong/SwiftPackageManager/ZFPlayer/.build/arm64-apple-macosx/debug/ZFPlayerTests.build/ZFPlayerTests.swift.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/thanhhaikhong/SwiftPackageManager/ZFPlayer/.build/arm64-apple-macosx/debug/ZFPlayerTests.swiftmodule"
+        }
+      ],
+      "sources" : [
+        "/Users/thanhhaikhong/SwiftPackageManager/ZFPlayer/Tests/ZFPlayerTests/ZFPlayerTests.swift"
+      ],
+      "tempsPath" : "/Users/thanhhaikhong/SwiftPackageManager/ZFPlayer/.build/arm64-apple-macosx/debug/ZFPlayerTests.build",
+      "wholeModuleOptimization" : false
+    }
+  },
+  "swiftFrontendCommands" : {
+
+  },
+  "swiftTargetScanArgs" : {
+    "ZFPlayer" : [
+      "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/swiftc",
+      "-module-name",
+      "ZFPlayer",
+      "-package-name",
+      "zfplayer",
+      "-incremental",
+      "-c",
+      "/Users/thanhhaikhong/SwiftPackageManager/ZFPlayer/Sources/ZFPlayer/ZFPlayer.swift",
+      "-I",
+      "/Users/thanhhaikhong/SwiftPackageManager/ZFPlayer/.build/arm64-apple-macosx/debug",
+      "-target",
+      "arm64-apple-macosx10.13",
+      "-swift-version",
+      "5",
+      "-enable-batch-mode",
+      "-index-store-path",
+      "/Users/thanhhaikhong/SwiftPackageManager/ZFPlayer/.build/arm64-apple-macosx/debug/index/store",
+      "-Onone",
+      "-enable-testing",
+      "-j10",
+      "-DSWIFT_PACKAGE",
+      "-DDEBUG",
+      "-Xcc",
+      "-fmodule-map-file=/Users/thanhhaikhong/SwiftPackageManager/ZFPlayer/Sources/MixedLanguageModule/module.modulemap",
+      "-Xcc",
+      "-I",
+      "-Xcc",
+      "/Users/thanhhaikhong/SwiftPackageManager/ZFPlayer/Sources/MixedLanguageModule",
+      "-module-cache-path",
+      "/Users/thanhhaikhong/SwiftPackageManager/ZFPlayer/.build/arm64-apple-macosx/debug/ModuleCache",
+      "-parseable-output",
+      "-parse-as-library",
+      "-emit-objc-header",
+      "-emit-objc-header-path",
+      "/Users/thanhhaikhong/SwiftPackageManager/ZFPlayer/.build/arm64-apple-macosx/debug/ZFPlayer.build/ZFPlayer-Swift.h",
+      "-color-diagnostics",
+      "-sdk",
+      "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX14.4.sdk",
+      "-F",
+      "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/Library/Frameworks",
+      "-I",
+      "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/usr/lib",
+      "-L",
+      "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/usr/lib",
+      "-g",
+      "-Xcc",
+      "-isysroot",
+      "-Xcc",
+      "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX14.4.sdk",
+      "-Xcc",
+      "-F",
+      "-Xcc",
+      "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/Library/Frameworks",
+      "-Xcc",
+      "-fPIC",
+      "-Xcc",
+      "-g",
+      "-package-name",
+      "zfplayer",
+      "-driver-use-frontend-path",
+      "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/swiftc"
+    ],
+    "ZFPlayerTests" : [
+      "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/swiftc",
+      "-module-name",
+      "ZFPlayerTests",
+      "-package-name",
+      "zfplayer",
+      "-incremental",
+      "-c",
+      "/Users/thanhhaikhong/SwiftPackageManager/ZFPlayer/Tests/ZFPlayerTests/ZFPlayerTests.swift",
+      "-I",
+      "/Users/thanhhaikhong/SwiftPackageManager/ZFPlayer/.build/arm64-apple-macosx/debug",
+      "-target",
+      "arm64-apple-macosx13.0",
+      "-swift-version",
+      "5",
+      "-enable-batch-mode",
+      "-index-store-path",
+      "/Users/thanhhaikhong/SwiftPackageManager/ZFPlayer/.build/arm64-apple-macosx/debug/index/store",
+      "-Onone",
+      "-enable-testing",
+      "-j10",
+      "-DSWIFT_PACKAGE",
+      "-DDEBUG",
+      "-Xcc",
+      "-fmodule-map-file=/Users/thanhhaikhong/SwiftPackageManager/ZFPlayer/Sources/MixedLanguageModule/module.modulemap",
+      "-Xcc",
+      "-I",
+      "-Xcc",
+      "/Users/thanhhaikhong/SwiftPackageManager/ZFPlayer/Sources/MixedLanguageModule",
+      "-module-cache-path",
+      "/Users/thanhhaikhong/SwiftPackageManager/ZFPlayer/.build/arm64-apple-macosx/debug/ModuleCache",
+      "-parseable-output",
+      "-parse-as-library",
+      "-color-diagnostics",
+      "-sdk",
+      "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX14.4.sdk",
+      "-F",
+      "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/Library/Frameworks",
+      "-I",
+      "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/usr/lib",
+      "-L",
+      "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/usr/lib",
+      "-g",
+      "-Xcc",
+      "-isysroot",
+      "-Xcc",
+      "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX14.4.sdk",
+      "-Xcc",
+      "-F",
+      "-Xcc",
+      "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/Library/Frameworks",
+      "-Xcc",
+      "-fPIC",
+      "-Xcc",
+      "-g",
+      "-package-name",
+      "zfplayer",
+      "-driver-use-frontend-path",
+      "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/swiftc"
+    ]
+  },
+  "targetDependencyMap" : {
+    "MixedLanguageModule" : [
+
+    ],
+    "ZFPlayer" : [
+      "MixedLanguageModule"
+    ],
+    "ZFPlayerTests" : [
+      "ZFPlayer",
+      "MixedLanguageModule"
+    ]
+  },
+  "testDiscoveryCommands" : {
+
+  },
+  "testEntryPointCommands" : {
+
+  },
+  "writeCommands" : {
+    "/Users/thanhhaikhong/SwiftPackageManager/ZFPlayer/.build/arm64-apple-macosx/debug/swift-version--58304C5D6DBC2206.txt" : {
+      "alwaysOutOfDate" : true,
+      "inputs" : [
+        {
+          "kind" : "virtual",
+          "name" : "<swift-get-version>"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/swiftc"
+        }
+      ],
+      "outputFilePath" : "/Users/thanhhaikhong/SwiftPackageManager/ZFPlayer/.build/arm64-apple-macosx/debug/swift-version--58304C5D6DBC2206.txt"
+    },
+    "/Users/thanhhaikhong/SwiftPackageManager/ZFPlayer/.build/arm64-apple-macosx/debug/ZFPlayer.build/sources" : {
+      "alwaysOutOfDate" : false,
+      "inputs" : [
+        {
+          "kind" : "virtual",
+          "name" : "<sources-file-list>"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/thanhhaikhong/SwiftPackageManager/ZFPlayer/Sources/ZFPlayer/ZFPlayer.swift"
+        }
+      ],
+      "outputFilePath" : "/Users/thanhhaikhong/SwiftPackageManager/ZFPlayer/.build/arm64-apple-macosx/debug/ZFPlayer.build/sources"
+    },
+    "/Users/thanhhaikhong/SwiftPackageManager/ZFPlayer/.build/arm64-apple-macosx/debug/ZFPlayerPackageTests.product/Objects.LinkFileList" : {
+      "alwaysOutOfDate" : false,
+      "inputs" : [
+        {
+          "kind" : "virtual",
+          "name" : "<link-file-list>"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/thanhhaikhong/SwiftPackageManager/ZFPlayer/.build/arm64-apple-macosx/debug/MixedLanguageModule.build/UIImageView+ZFCache.m.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/thanhhaikhong/SwiftPackageManager/ZFPlayer/.build/arm64-apple-macosx/debug/MixedLanguageModule.build/UIScrollView+ZFPlayer.m.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/thanhhaikhong/SwiftPackageManager/ZFPlayer/.build/arm64-apple-macosx/debug/MixedLanguageModule.build/UIView+ZFFrame.m.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/thanhhaikhong/SwiftPackageManager/ZFPlayer/.build/arm64-apple-macosx/debug/MixedLanguageModule.build/UIViewController+ZFPlayerRotation.m.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/thanhhaikhong/SwiftPackageManager/ZFPlayer/.build/arm64-apple-macosx/debug/MixedLanguageModule.build/ZFAVPlayerManager.m.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/thanhhaikhong/SwiftPackageManager/ZFPlayer/.build/arm64-apple-macosx/debug/MixedLanguageModule.build/ZFFloatView.m.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/thanhhaikhong/SwiftPackageManager/ZFPlayer/.build/arm64-apple-macosx/debug/MixedLanguageModule.build/ZFIJKPlayerManager.m.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/thanhhaikhong/SwiftPackageManager/ZFPlayer/.build/arm64-apple-macosx/debug/MixedLanguageModule.build/ZFKVOController.m.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/thanhhaikhong/SwiftPackageManager/ZFPlayer/.build/arm64-apple-macosx/debug/MixedLanguageModule.build/ZFLandScapeControlView.m.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/thanhhaikhong/SwiftPackageManager/ZFPlayer/.build/arm64-apple-macosx/debug/MixedLanguageModule.build/ZFLandscapeRotationManager.m.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/thanhhaikhong/SwiftPackageManager/ZFPlayer/.build/arm64-apple-macosx/debug/MixedLanguageModule.build/ZFLandscapeRotationManager_iOS15.m.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/thanhhaikhong/SwiftPackageManager/ZFPlayer/.build/arm64-apple-macosx/debug/MixedLanguageModule.build/ZFLandscapeRotationManager_iOS16.m.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/thanhhaikhong/SwiftPackageManager/ZFPlayer/.build/arm64-apple-macosx/debug/MixedLanguageModule.build/ZFLandscapeViewController.m.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/thanhhaikhong/SwiftPackageManager/ZFPlayer/.build/arm64-apple-macosx/debug/MixedLanguageModule.build/ZFLandscapeViewController_iOS15.m.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/thanhhaikhong/SwiftPackageManager/ZFPlayer/.build/arm64-apple-macosx/debug/MixedLanguageModule.build/ZFLandscapeWindow.m.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/thanhhaikhong/SwiftPackageManager/ZFPlayer/.build/arm64-apple-macosx/debug/MixedLanguageModule.build/ZFLoadingView.m.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/thanhhaikhong/SwiftPackageManager/ZFPlayer/.build/arm64-apple-macosx/debug/MixedLanguageModule.build/ZFNetworkSpeedMonitor.m.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/thanhhaikhong/SwiftPackageManager/ZFPlayer/.build/arm64-apple-macosx/debug/MixedLanguageModule.build/ZFOrientationObserver.m.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/thanhhaikhong/SwiftPackageManager/ZFPlayer/.build/arm64-apple-macosx/debug/MixedLanguageModule.build/ZFPersentInteractiveTransition.m.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/thanhhaikhong/SwiftPackageManager/ZFPlayer/.build/arm64-apple-macosx/debug/MixedLanguageModule.build/ZFPlayerControlView.m.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/thanhhaikhong/SwiftPackageManager/ZFPlayer/.build/arm64-apple-macosx/debug/MixedLanguageModule.build/ZFPlayerController.m.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/thanhhaikhong/SwiftPackageManager/ZFPlayer/.build/arm64-apple-macosx/debug/MixedLanguageModule.build/ZFPlayerGestureControl.m.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/thanhhaikhong/SwiftPackageManager/ZFPlayer/.build/arm64-apple-macosx/debug/MixedLanguageModule.build/ZFPlayerLogManager.m.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/thanhhaikhong/SwiftPackageManager/ZFPlayer/.build/arm64-apple-macosx/debug/MixedLanguageModule.build/ZFPlayerNotification.m.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/thanhhaikhong/SwiftPackageManager/ZFPlayer/.build/arm64-apple-macosx/debug/MixedLanguageModule.build/ZFPlayerStatusBar.m.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/thanhhaikhong/SwiftPackageManager/ZFPlayer/.build/arm64-apple-macosx/debug/MixedLanguageModule.build/ZFPlayerView.m.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/thanhhaikhong/SwiftPackageManager/ZFPlayer/.build/arm64-apple-macosx/debug/MixedLanguageModule.build/ZFPortraitControlView.m.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/thanhhaikhong/SwiftPackageManager/ZFPlayer/.build/arm64-apple-macosx/debug/MixedLanguageModule.build/ZFPortraitViewController.m.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/thanhhaikhong/SwiftPackageManager/ZFPlayer/.build/arm64-apple-macosx/debug/MixedLanguageModule.build/ZFPresentTransition.m.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/thanhhaikhong/SwiftPackageManager/ZFPlayer/.build/arm64-apple-macosx/debug/MixedLanguageModule.build/ZFReachabilityManager.m.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/thanhhaikhong/SwiftPackageManager/ZFPlayer/.build/arm64-apple-macosx/debug/MixedLanguageModule.build/ZFSliderView.m.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/thanhhaikhong/SwiftPackageManager/ZFPlayer/.build/arm64-apple-macosx/debug/MixedLanguageModule.build/ZFSmallFloatControlView.m.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/thanhhaikhong/SwiftPackageManager/ZFPlayer/.build/arm64-apple-macosx/debug/MixedLanguageModule.build/ZFSpeedLoadingView.m.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/thanhhaikhong/SwiftPackageManager/ZFPlayer/.build/arm64-apple-macosx/debug/MixedLanguageModule.build/ZFUtilities.m.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/thanhhaikhong/SwiftPackageManager/ZFPlayer/.build/arm64-apple-macosx/debug/MixedLanguageModule.build/ZFVolumeBrightnessView.m.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/thanhhaikhong/SwiftPackageManager/ZFPlayer/.build/arm64-apple-macosx/debug/ZFPlayer.build/ZFPlayer.swift.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/thanhhaikhong/SwiftPackageManager/ZFPlayer/.build/arm64-apple-macosx/debug/ZFPlayerTests.build/ZFPlayerTests.swift.o"
+        }
+      ],
+      "outputFilePath" : "/Users/thanhhaikhong/SwiftPackageManager/ZFPlayer/.build/arm64-apple-macosx/debug/ZFPlayerPackageTests.product/Objects.LinkFileList"
+    },
+    "/Users/thanhhaikhong/SwiftPackageManager/ZFPlayer/.build/arm64-apple-macosx/debug/ZFPlayerTests.build/sources" : {
+      "alwaysOutOfDate" : false,
+      "inputs" : [
+        {
+          "kind" : "virtual",
+          "name" : "<sources-file-list>"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/thanhhaikhong/SwiftPackageManager/ZFPlayer/Tests/ZFPlayerTests/ZFPlayerTests.swift"
+        }
+      ],
+      "outputFilePath" : "/Users/thanhhaikhong/SwiftPackageManager/ZFPlayer/.build/arm64-apple-macosx/debug/ZFPlayerTests.build/sources"
+    }
+  }
+}
