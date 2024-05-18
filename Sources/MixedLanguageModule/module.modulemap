@@ -1,0 +1,4 @@
+module MixedLanguageModule [system] {
+    header "MixedLanguageModule.h"
+    export *
+}
